@@ -4,10 +4,11 @@
 
 
 
-# NEC SX Architecture Family
+# 
 | Title           | Publication Year      
 | -------------------------- | ------------- 
-|                |              
+|   Prototyping an OpenCL Implementation for NEC SX Vector
+Systems             |      October 2011        
 |                |              
 |                |              
 |                |              
