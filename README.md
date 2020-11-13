@@ -1,6 +1,6 @@
 # NEC_AURORA_RESEARCH
 
-Followng table consists of research papers that demonstrate differet results of NEC Aurora card.
+Followng table consists of research papers that demonstrate differet results of NEC Aurora card. Feel free to push more.
 
 
 
