@@ -1,5 +1,7 @@
 # NEC_AURORA_RESEARCH
 :notebook_with_decorative_cover:
+:book:
+:open_book:
 
 Followng table consists of research papers that demonstrate differet results of NEC Aurora card. Feel free to push more.
 
