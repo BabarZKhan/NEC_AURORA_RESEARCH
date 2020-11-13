@@ -2,6 +2,14 @@
 :notebook_with_decorative_cover:
 :book:
 :open_book:
+:blue_book:
+:books:
+:closed_book:
+:green_book:
+:orange_book:
+:notebook:
+:page_with_curl:
+:page_facing_up:
 
 Followng table consists of research papers that demonstrate differet results of NEC Aurora card. Feel free to push more.
 
